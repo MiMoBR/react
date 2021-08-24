@@ -1,0 +1,12 @@
+import Icon from '../../images/Icon.svg'
+
+
+const xxx = () => {
+    const yyy = [
+        {
+            img: Icon
+        },
+        
+    const zzz = xxx.map((benefit, key) => {
+        return  <div key={ key }>
+                    <div>{ benefit.img() }</div>
