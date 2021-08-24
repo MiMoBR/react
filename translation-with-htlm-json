@@ -1,0 +1,3 @@
+<div dangerouslySetInnerHTML={ {__html:translate(yyy.title)} }></div>
+
+"yyy_1_title": "<p> xxxxxxxxxxxxxxx </p>\n<p> xxxxxxxxxxxxxxx </p>",
